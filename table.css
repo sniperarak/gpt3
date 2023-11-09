@@ -1,0 +1,205 @@
+body{
+    padding: 200px; 
+    background-color: whitesmoke;
+}
+.name{
+    background-image: linear-gradient(rgb(7, 7, 111),rgb(5, 5, 33));
+    width: 1400px;
+    height: 5460px;
+}
+.name ul{
+    list-style-type: none;
+    display: inline-flex;
+    color: white;
+    
+}
+.name ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: x-large;
+
+}
+.name ul li{
+    margin-top: 60px;
+    margin-left: 60px;
+}
+.term{
+    color: purple;
+    font-size: 60px;
+    margin-left: 60px;
+    padding: 20px;
+}
+.b1{
+    border-radius: 20px;
+    
+    
+}
+.yes{
+    padding-left: 70px;
+    color: lightblue;
+}
+.illustration{
+    float: right;
+    height: 30%;
+ display: flex;
+    
+    width: 40%;
+}
+.good{
+    display: flex;
+}
+#email{
+    width: 400px;
+    height: 50px;
+    margin-left: 70px;
+    background-color: rgb(13, 13, 119);
+    border-style: none;
+    font-size: x-large;
+    margin-top: 20px;
+    padding: 10px;
+    color: white;
+}
+#start{
+background-color: orangered;
+padding: 29px;
+color: white;
+border-radius: 5px;
+font-size: x-large;
+
+}
+.people{
+    margin-left: 60px;
+    padding: 30px;
+}
+.image{
+    display: inline;
+    padding-left: 300px;
+    
+}
+.google{
+    display: inline;
+    width: 100px;
+    padding: 40px;
+    border-color: blue;
+}
+.box{
+    margin-top: 100px;
+    background-color: rgb(27, 27, 78);
+    width: 1120px;
+    height: 700px;
+    padding-left: 40px;
+    margin-left: 100px;
+    padding-top: 40px;
+    border: 1px solid rgb(17, 17, 111);
+}
+.color{
+    display: flex;
+}
+.friends{
+    padding-left: 250px;
+    color: lightblue;
+    letter-spacing: 1px;
+    font-weight: 30;
+   font-size: larger;
+   font-family: 'Times New Roman';
+}
+.friend{
+    padding: 15px;
+    padding-left: 600px;
+    font-weight: normal;
+}
+.table{
+    display: flex;
+    margin-top: 50px;
+}
+.base{
+    margin-top: 200px;
+    padding-left: 100px;
+    display: flex;
+}
+.pick{
+    display: flex;
+    padding-left: 150px;
+    margin-top: 150px;
+}
+.early{
+    padding-left: 70px;
+    margin-top: 80px;
+}
+.date{
+    display: flex;
+    padding-left: 150px;
+    margin-top: 100px;
+    background-image: linear-gradient(purple,pink);
+    padding: 40px;
+    width: 990px;
+    margin-left: 150px;
+    border-radius: 30px;
+}
+.lot{
+    margin-top: 120px;
+    padding-left: 140px;
+}
+.rectangles{
+    display: flex;
+    
+    margin-top: 100px;
+    margin-left: 150px;
+    gap: 3em;
+}
+.rectangle{
+    background-color: rgb(6, 46, 59);
+    width: 400px;
+    border-top-left-radius: 40px;
+    
+    
+}
+.rectangle2{
+    background-color: rgb(6, 46, 59);
+    width: 300px;
+    height: 350px;
+    border-top-left-radius: 40px;
+    display: block;
+    
+    
+}
+.rectangle3{
+    background-color: rgb(6, 46, 59);
+    width: 300px;
+    height: 350px;
+    border-top-left-radius: 40px;
+}
+#footer{
+    background-color: rgb(12, 12, 106);
+    margin-top: 200px;
+    height: 971px;
+}
+.footer2{
+    margin-top: 200px;
+    padding-left: 100px;
+    display: flex;
+}
+.footerbottom{
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+}
+.designer{
+    opacity: 0.7;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 400;
+}
+.sign{
+    padding-left: 200px;
+    padding-top: 50px;
+    
+    
+    
+}
+.signup{
+    font-size: x-large;color: white;background-color: orangered;padding: 15px;padding-left: 40px;padding-right: 40px;border-radius: 10px;
+}
+.signin{
+    font-size: x-large;background-color: transparent;color: white;border: none;
+}
